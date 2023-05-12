@@ -133,21 +133,6 @@ input{
   left: 15em;
   width: 10em;
 }
-/* .trend >.btn{
-  width: 170px;
-  height: 50px;
-  border-radius: 5px;
-  background: #C1DCDC;
-  border: 1px;
-  display: inline-block;
-}
-.trend >.btn::after{
-  display: inline-block;
-  width: 30px;
-  height: 30px;
-  content: " ";
-  background: url(/img/arow.png) no-repeat center 18px;
-} */
 
 .btn {
  padding:12px 58px 12px 24px;
